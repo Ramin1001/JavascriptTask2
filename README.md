@@ -1,2 +1,2 @@
-# JavascriptTask2
-Chess ways for horse
+# Javascript Задача вторая
+Все возможные ходы шахматного коня. Полностью готова.
